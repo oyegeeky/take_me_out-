@@ -8,6 +8,8 @@ void main() {
   runApp( MyApp());
 }
 
+//starting point of the app
+
 class MyApp extends StatelessWidget {
 
   @override
